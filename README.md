@@ -15,14 +15,14 @@ This interactive dashboard visualizes traffic enforcement data (e.g., speeding, 
 
 
 ## 📁 Project Structure
+├── index.html # Landing page
+├── story.html # Story-driven walk-through
+├── view.html # Interactive map + visualisations
+├── /js # D3 visualisation scripts (bar, line, stacked charts)
+├── /css # Styling for dark mode & layout
+├── /data # CSV & GeoJSON files (fines, population, state maps)
+└── /assets # Logos, banners, and icons
 
-├── index.html          # Landing page
-├── story.html          # Story-driven walk-through
-├── view.html           # Interactive map + visualisations
-├── /js                 # D3 visualisation scripts (bar, line, stacked charts)
-├── /css                # Styling for dark mode & layout
-├── /data               # CSV & GeoJSON files (fines, population, state maps)
-└── /assets             # Logos, banners, and icons
 
 ## 📊 Visualisations
 
