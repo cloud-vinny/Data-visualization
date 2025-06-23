@@ -52,6 +52,6 @@ The dashboard supports dark mode toggling for accessibility and user preference.
 
 Clone the repository:
 
-```bash
+```
 git clone https://github.com/yourusername/data-visualisation-project.git
 cd data-visualisation-project
