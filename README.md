@@ -1,4 +1,3 @@
-# Data-visualization
 # 🚔 Australian Traffic Fines Visualisation
 
 This interactive dashboard visualizes traffic enforcement data (e.g., speeding, mobile phone use, seatbelt violations) across Australian states using D3.js and CSV datasets.
@@ -13,16 +12,23 @@ This interactive dashboard visualizes traffic enforcement data (e.g., speeding, 
 
 ---
 
-
 ## 📁 Project Structure
 ├── index.html # Landing page
+
 ├── story.html # Story-driven walk-through
+
 ├── view.html # Interactive map + visualisations
+
 ├── /js # D3 visualisation scripts (bar, line, stacked charts)
+
 ├── /css # Styling for dark mode & layout
+
 ├── /data # CSV & GeoJSON files (fines, population, state maps)
+
 └── /assets # Logos, banners, and icons
 
+
+---
 
 ## 📊 Visualisations
 
@@ -32,7 +38,6 @@ This interactive dashboard visualizes traffic enforcement data (e.g., speeding, 
 - **Stacked Chart**: Distribution across age groups
 
 ---
-
 
 ## 🌗 Dark Mode Support
 
@@ -47,11 +52,20 @@ The dashboard supports dark mode toggling for accessibility and user preference.
 - CSV + GeoJSON – Data format
 
 ---
+## 👥 Team
 
+- Vince Aaron Descartin
+
+- Kim Daehyun
+
+
+  
 ## 🚀 Getting Started
 
 Clone the repository:
 
-```
-git clone https://github.com/yourusername/data-visualisation-project.git
-cd data-visualisation-project
+```bash
+git clone https://github.com/cloud-vinny/Data-visualization.git
+cd Data-visualization
+
+
