@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" >
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Chart</title>
+  <link rel="stylesheet" href="css/style.css" >
+  <script src="js/script.js" defer></script>
+</head>
+  <header>
+    <h1>Speending fines 2023</h1>
+    <button id="darkToggle">🌙</button>
+  </header>
+
+  <nav class="navbar">
+    <ul>
+      <li><a href="view.html">View Data</a></li>
+      <li><a href="index.html" class="active">Chart</a></li>
+      <li><a href="story.html">Storytelling</a></li>
+    </ul>
+  </nav>
+  
+  <h2>How speeding fines are distributed across age groups within each Australian state?</h2>
+      <p id="order">Explore the visualisation of speeding fines data.</p>
+      <p id="order">1 .Select a state -> 2. Select age groups -> 3. Compare fines and detection methods by age group!</p>
+
+  <main class="card-container">
+      
+      
+    <div class="card">
+        <h3>Map: Fines by State</h3>
+        <!-- div for Histogram -->
+    <div id="mapChart" class="responsive-svg-container"></div></div>
+    <div class="card">
+        <h3>Fines by Age Group</h3>
+        <!-- div for barchart -->
+    <div id="barChart" class="responsive-svg-container"></div></div>
+    <div class="card">
+        <h3>Detection Method</h3>
+        <!-- div for stackedChart -->
+    <div id="stackedChart" class="responsive-svg-container"></div></div>
+    <div class="card">
+        <h3>Fines Over Time</h3>
+        <!-- div for lineChart -->
+    <div id="lineChart" class="responsive-svg-container"></div></div>
+  </main>
+  <div id="conclusion">
+  <h3>Conclusion</h3>
+<p>You've explored how speeding fines vary across age groups, detection methods, and time.</p>
+<p> reveal that certain age groups are fined more frequently and that mobile cameras are widely used.</p>
+<p>Seasonal trends may also play a role in enforcement intensity.</p>
+<p>Consider how these findings could influence future road safety strategies.</p></div>
+
+  <footer class="footer">
+    <p>&copy; DV04-T02</p>
+  </footer>
+</body>
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <script src="js/shared-constants.js"></script>
+  <script src="js/interactions.js"></script>
+  <script src="js/tooltip.js"></script>
+  <script src="js/mapChart.js"></script>
+  <script src="js/barChart.js"></script>
+  <script src="js/stackedChart.js"></script>
+  <script src="js/lineChart.js"></script>
+  <script src="js/load-data.js"></script>
+</html>

@@ -1,0 +1,1110 @@
+"JURISDICTION","AGE_GROUP","DETECTION_METHOD","Month","DETECTION_TYPE","Sum(FINES)","POPULATION"
+"ACT","0-16","Fixed camera",1,"camera_issued",1,83100
+"ACT","0-16","Fixed camera",2,"camera_issued",1,83100
+"ACT","0-16","Fixed camera",3,"camera_issued",1,83100
+"ACT","0-16","Fixed camera",4,"camera_issued",1,83100
+"ACT","0-16","Fixed camera",5,"camera_issued",1,83100
+"ACT","0-16","Fixed camera",6,"camera_issued",1,83100
+"ACT","0-16","Fixed camera",7,"camera_issued",2,83100
+"ACT","0-16","Fixed camera",8,"camera_issued",2,83100
+"ACT","0-16","Fixed camera",9,"camera_issued",2,83100
+"ACT","0-16","Fixed camera",10,"camera_issued",1,83100
+"ACT","0-16","Fixed camera",12,"camera_issued",2,83100
+"ACT","0-16","Mobile camera",3,"camera_issued",1,83100
+"ACT","0-16","Mobile camera",4,"camera_issued",1,83100
+"ACT","0-16","Mobile camera",5,"camera_issued",1,83100
+"ACT","0-16","Mobile camera",8,"camera_issued",1,83100
+"ACT","0-16","Mobile camera",9,"camera_issued",1,83100
+"ACT","0-16","Mobile camera",10,"camera_issued",2,83100
+"ACT","0-16","Mobile camera",12,"camera_issued",1,83100
+"ACT","0-16","Police issued",1,"police_issued",2,83100
+"ACT","0-16","Police issued",2,"police_issued",1,83100
+"ACT","0-16","Police issued",3,"police_issued",7,83100
+"ACT","0-16","Police issued",4,"police_issued",2,83100
+"ACT","0-16","Police issued",5,"police_issued",3,83100
+"ACT","0-16","Police issued",6,"police_issued",2,83100
+"ACT","0-16","Police issued",7,"police_issued",2,83100
+"ACT","0-16","Police issued",8,"police_issued",4,83100
+"ACT","0-16","Police issued",9,"police_issued",3,83100
+"ACT","0-16","Police issued",10,"police_issued",1,83100
+"ACT","0-16","Police issued",11,"police_issued",4,83100
+"ACT","0-16","Police issued",12,"police_issued",4,83100
+"ACT","17-25","Fixed camera",1,"camera_issued",559,63392
+"ACT","17-25","Fixed camera",2,"camera_issued",508,63392
+"ACT","17-25","Fixed camera",3,"camera_issued",538,63392
+"ACT","17-25","Fixed camera",4,"camera_issued",582,63392
+"ACT","17-25","Fixed camera",5,"camera_issued",510,63392
+"ACT","17-25","Fixed camera",6,"camera_issued",452,63392
+"ACT","17-25","Fixed camera",7,"camera_issued",407,63392
+"ACT","17-25","Fixed camera",8,"camera_issued",473,63392
+"ACT","17-25","Fixed camera",9,"camera_issued",462,63392
+"ACT","17-25","Fixed camera",10,"camera_issued",491,63392
+"ACT","17-25","Fixed camera",11,"camera_issued",473,63392
+"ACT","17-25","Fixed camera",12,"camera_issued",524,63392
+"ACT","17-25","Mobile camera",1,"camera_issued",143,63392
+"ACT","17-25","Mobile camera",2,"camera_issued",220,63392
+"ACT","17-25","Mobile camera",3,"camera_issued",222,63392
+"ACT","17-25","Mobile camera",4,"camera_issued",157,63392
+"ACT","17-25","Mobile camera",5,"camera_issued",178,63392
+"ACT","17-25","Mobile camera",6,"camera_issued",176,63392
+"ACT","17-25","Mobile camera",7,"camera_issued",204,63392
+"ACT","17-25","Mobile camera",8,"camera_issued",194,63392
+"ACT","17-25","Mobile camera",9,"camera_issued",207,63392
+"ACT","17-25","Mobile camera",10,"camera_issued",224,63392
+"ACT","17-25","Mobile camera",11,"camera_issued",223,63392
+"ACT","17-25","Mobile camera",12,"camera_issued",177,63392
+"ACT","17-25","Police issued",1,"police_issued",59,63392
+"ACT","17-25","Police issued",2,"police_issued",27,63392
+"ACT","17-25","Police issued",3,"police_issued",52,63392
+"ACT","17-25","Police issued",4,"police_issued",99,63392
+"ACT","17-25","Police issued",5,"police_issued",55,63392
+"ACT","17-25","Police issued",6,"police_issued",42,63392
+"ACT","17-25","Police issued",7,"police_issued",83,63392
+"ACT","17-25","Police issued",8,"police_issued",61,63392
+"ACT","17-25","Police issued",9,"police_issued",70,63392
+"ACT","17-25","Police issued",10,"police_issued",38,63392
+"ACT","17-25","Police issued",11,"police_issued",55,63392
+"ACT","17-25","Police issued",12,"police_issued",62,63392
+"ACT","26-39","Fixed camera",1,"camera_issued",1550,120292
+"ACT","26-39","Fixed camera",2,"camera_issued",1149,120292
+"ACT","26-39","Fixed camera",3,"camera_issued",1172,120292
+"ACT","26-39","Fixed camera",4,"camera_issued",1317,120292
+"ACT","26-39","Fixed camera",5,"camera_issued",1196,120292
+"ACT","26-39","Fixed camera",6,"camera_issued",1108,120292
+"ACT","26-39","Fixed camera",7,"camera_issued",1005,120292
+"ACT","26-39","Fixed camera",8,"camera_issued",893,120292
+"ACT","26-39","Fixed camera",9,"camera_issued",1090,120292
+"ACT","26-39","Fixed camera",10,"camera_issued",1102,120292
+"ACT","26-39","Fixed camera",11,"camera_issued",1001,120292
+"ACT","26-39","Fixed camera",12,"camera_issued",1202,120292
+"ACT","26-39","Mobile camera",1,"camera_issued",313,120292
+"ACT","26-39","Mobile camera",2,"camera_issued",463,120292
+"ACT","26-39","Mobile camera",3,"camera_issued",532,120292
+"ACT","26-39","Mobile camera",4,"camera_issued",295,120292
+"ACT","26-39","Mobile camera",5,"camera_issued",352,120292
+"ACT","26-39","Mobile camera",6,"camera_issued",404,120292
+"ACT","26-39","Mobile camera",7,"camera_issued",545,120292
+"ACT","26-39","Mobile camera",8,"camera_issued",504,120292
+"ACT","26-39","Mobile camera",9,"camera_issued",426,120292
+"ACT","26-39","Mobile camera",10,"camera_issued",507,120292
+"ACT","26-39","Mobile camera",11,"camera_issued",515,120292
+"ACT","26-39","Mobile camera",12,"camera_issued",480,120292
+"ACT","26-39","Police issued",1,"police_issued",98,120292
+"ACT","26-39","Police issued",2,"police_issued",52,120292
+"ACT","26-39","Police issued",3,"police_issued",55,120292
+"ACT","26-39","Police issued",4,"police_issued",126,120292
+"ACT","26-39","Police issued",5,"police_issued",52,120292
+"ACT","26-39","Police issued",6,"police_issued",47,120292
+"ACT","26-39","Police issued",7,"police_issued",86,120292
+"ACT","26-39","Police issued",8,"police_issued",63,120292
+"ACT","26-39","Police issued",9,"police_issued",75,120292
+"ACT","26-39","Police issued",10,"police_issued",57,120292
+"ACT","26-39","Police issued",11,"police_issued",59,120292
+"ACT","26-39","Police issued",12,"police_issued",59,120292
+"ACT","40-64","Fixed camera",1,"camera_issued",2722,135689
+"ACT","40-64","Fixed camera",2,"camera_issued",2115,135689
+"ACT","40-64","Fixed camera",3,"camera_issued",2126,135689
+"ACT","40-64","Fixed camera",4,"camera_issued",2313,135689
+"ACT","40-64","Fixed camera",5,"camera_issued",2112,135689
+"ACT","40-64","Fixed camera",6,"camera_issued",1805,135689
+"ACT","40-64","Fixed camera",7,"camera_issued",1682,135689
+"ACT","40-64","Fixed camera",8,"camera_issued",1520,135689
+"ACT","40-64","Fixed camera",9,"camera_issued",1863,135689
+"ACT","40-64","Fixed camera",10,"camera_issued",1809,135689
+"ACT","40-64","Fixed camera",11,"camera_issued",1796,135689
+"ACT","40-64","Fixed camera",12,"camera_issued",2074,135689
+"ACT","40-64","Mobile camera",1,"camera_issued",476,135689
+"ACT","40-64","Mobile camera",2,"camera_issued",582,135689
+"ACT","40-64","Mobile camera",3,"camera_issued",725,135689
+"ACT","40-64","Mobile camera",4,"camera_issued",468,135689
+"ACT","40-64","Mobile camera",5,"camera_issued",532,135689
+"ACT","40-64","Mobile camera",6,"camera_issued",558,135689
+"ACT","40-64","Mobile camera",7,"camera_issued",770,135689
+"ACT","40-64","Mobile camera",8,"camera_issued",631,135689
+"ACT","40-64","Mobile camera",9,"camera_issued",618,135689
+"ACT","40-64","Mobile camera",10,"camera_issued",618,135689
+"ACT","40-64","Mobile camera",11,"camera_issued",700,135689
+"ACT","40-64","Mobile camera",12,"camera_issued",608,135689
+"ACT","40-64","Police issued",1,"police_issued",47,135689
+"ACT","40-64","Police issued",2,"police_issued",33,135689
+"ACT","40-64","Police issued",3,"police_issued",46,135689
+"ACT","40-64","Police issued",4,"police_issued",107,135689
+"ACT","40-64","Police issued",5,"police_issued",47,135689
+"ACT","40-64","Police issued",6,"police_issued",47,135689
+"ACT","40-64","Police issued",7,"police_issued",64,135689
+"ACT","40-64","Police issued",8,"police_issued",40,135689
+"ACT","40-64","Police issued",9,"police_issued",60,135689
+"ACT","40-64","Police issued",10,"police_issued",44,135689
+"ACT","40-64","Police issued",11,"police_issued",38,135689
+"ACT","40-64","Police issued",12,"police_issued",40,135689
+"ACT","65 and over","Fixed camera",1,"camera_issued",836,63943
+"ACT","65 and over","Fixed camera",2,"camera_issued",735,63943
+"ACT","65 and over","Fixed camera",3,"camera_issued",697,63943
+"ACT","65 and over","Fixed camera",4,"camera_issued",704,63943
+"ACT","65 and over","Fixed camera",5,"camera_issued",679,63943
+"ACT","65 and over","Fixed camera",6,"camera_issued",527,63943
+"ACT","65 and over","Fixed camera",7,"camera_issued",444,63943
+"ACT","65 and over","Fixed camera",8,"camera_issued",431,63943
+"ACT","65 and over","Fixed camera",9,"camera_issued",570,63943
+"ACT","65 and over","Fixed camera",10,"camera_issued",615,63943
+"ACT","65 and over","Fixed camera",11,"camera_issued",524,63943
+"ACT","65 and over","Fixed camera",12,"camera_issued",590,63943
+"ACT","65 and over","Mobile camera",1,"camera_issued",148,63943
+"ACT","65 and over","Mobile camera",2,"camera_issued",243,63943
+"ACT","65 and over","Mobile camera",3,"camera_issued",244,63943
+"ACT","65 and over","Mobile camera",4,"camera_issued",155,63943
+"ACT","65 and over","Mobile camera",5,"camera_issued",175,63943
+"ACT","65 and over","Mobile camera",6,"camera_issued",203,63943
+"ACT","65 and over","Mobile camera",7,"camera_issued",205,63943
+"ACT","65 and over","Mobile camera",8,"camera_issued",237,63943
+"ACT","65 and over","Mobile camera",9,"camera_issued",214,63943
+"ACT","65 and over","Mobile camera",10,"camera_issued",242,63943
+"ACT","65 and over","Mobile camera",11,"camera_issued",257,63943
+"ACT","65 and over","Mobile camera",12,"camera_issued",195,63943
+"ACT","65 and over","Police issued",1,"police_issued",5,63943
+"ACT","65 and over","Police issued",2,"police_issued",4,63943
+"ACT","65 and over","Police issued",4,"police_issued",8,63943
+"ACT","65 and over","Police issued",5,"police_issued",4,63943
+"ACT","65 and over","Police issued",6,"police_issued",4,63943
+"ACT","65 and over","Police issued",7,"police_issued",6,63943
+"ACT","65 and over","Police issued",8,"police_issued",7,63943
+"ACT","65 and over","Police issued",9,"police_issued",7,63943
+"ACT","65 and over","Police issued",10,"police_issued",2,63943
+"ACT","65 and over","Police issued",11,"police_issued",6,63943
+"ACT","65 and over","Police issued",12,"police_issued",2,63943
+"NSW","0-16","Police issued",1,"police_issued",10,1495407
+"NSW","0-16","Police issued",2,"police_issued",5,1495407
+"NSW","0-16","Police issued",3,"police_issued",8,1495407
+"NSW","0-16","Police issued",4,"police_issued",21,1495407
+"NSW","0-16","Police issued",5,"police_issued",12,1495407
+"NSW","0-16","Police issued",6,"police_issued",7,1495407
+"NSW","0-16","Police issued",7,"police_issued",10,1495407
+"NSW","0-16","Police issued",8,"police_issued",11,1495407
+"NSW","0-16","Police issued",9,"police_issued",6,1495407
+"NSW","0-16","Police issued",10,"police_issued",14,1495407
+"NSW","0-16","Police issued",11,"police_issued",9,1495407
+"NSW","0-16","Police issued",12,"police_issued",14,1495407
+"NSW","17-25","Police issued",1,"police_issued",3588,1050967
+"NSW","17-25","Police issued",2,"police_issued",2923,1050967
+"NSW","17-25","Police issued",3,"police_issued",3307,1050967
+"NSW","17-25","Police issued",4,"police_issued",3888,1050967
+"NSW","17-25","Police issued",5,"police_issued",3183,1050967
+"NSW","17-25","Police issued",6,"police_issued",4399,1050967
+"NSW","17-25","Police issued",7,"police_issued",3302,1050967
+"NSW","17-25","Police issued",8,"police_issued",3627,1050967
+"NSW","17-25","Police issued",9,"police_issued",3957,1050967
+"NSW","17-25","Police issued",10,"police_issued",3660,1050967
+"NSW","17-25","Police issued",11,"police_issued",3406,1050967
+"NSW","17-25","Police issued",12,"police_issued",4540,1050967
+"NSW","26-39","Police issued",1,"police_issued",5200,1814007
+"NSW","26-39","Police issued",2,"police_issued",4176,1814007
+"NSW","26-39","Police issued",3,"police_issued",4551,1814007
+"NSW","26-39","Police issued",4,"police_issued",5387,1814007
+"NSW","26-39","Police issued",5,"police_issued",4371,1814007
+"NSW","26-39","Police issued",6,"police_issued",6108,1814007
+"NSW","26-39","Police issued",7,"police_issued",4512,1814007
+"NSW","26-39","Police issued",8,"police_issued",4958,1814007
+"NSW","26-39","Police issued",9,"police_issued",5379,1814007
+"NSW","26-39","Police issued",10,"police_issued",4969,1814007
+"NSW","26-39","Police issued",11,"police_issued",4435,1814007
+"NSW","26-39","Police issued",12,"police_issued",6234,1814007
+"NSW","40-64","Police issued",1,"police_issued",5052,2525019
+"NSW","40-64","Police issued",2,"police_issued",4263,2525019
+"NSW","40-64","Police issued",3,"police_issued",4644,2525019
+"NSW","40-64","Police issued",4,"police_issued",5193,2525019
+"NSW","40-64","Police issued",5,"police_issued",4489,2525019
+"NSW","40-64","Police issued",6,"police_issued",5841,2525019
+"NSW","40-64","Police issued",7,"police_issued",4339,2525019
+"NSW","40-64","Police issued",8,"police_issued",4908,2525019
+"NSW","40-64","Police issued",9,"police_issued",5201,2525019
+"NSW","40-64","Police issued",10,"police_issued",5032,2525019
+"NSW","40-64","Police issued",11,"police_issued",4444,2525019
+"NSW","40-64","Police issued",12,"police_issued",6020,2525019
+"NSW","65 and over","Police issued",1,"police_issued",981,1459613
+"NSW","65 and over","Police issued",2,"police_issued",877,1459613
+"NSW","65 and over","Police issued",3,"police_issued",984,1459613
+"NSW","65 and over","Police issued",4,"police_issued",979,1459613
+"NSW","65 and over","Police issued",5,"police_issued",963,1459613
+"NSW","65 and over","Police issued",6,"police_issued",1179,1459613
+"NSW","65 and over","Police issued",7,"police_issued",788,1459613
+"NSW","65 and over","Police issued",8,"police_issued",1034,1459613
+"NSW","65 and over","Police issued",9,"police_issued",1043,1459613
+"NSW","65 and over","Police issued",10,"police_issued",1048,1459613
+"NSW","65 and over","Police issued",11,"police_issued",924,1459613
+"NSW","65 and over","Police issued",12,"police_issued",1236,1459613
+"NT","0-16","Mobile camera",1,"camera_issued",4,51867
+"NT","0-16","Mobile camera",2,"camera_issued",3,51867
+"NT","0-16","Mobile camera",3,"camera_issued",2,51867
+"NT","0-16","Mobile camera",5,"camera_issued",1,51867
+"NT","0-16","Mobile camera",6,"camera_issued",2,51867
+"NT","0-16","Mobile camera",7,"camera_issued",5,51867
+"NT","0-16","Mobile camera",8,"camera_issued",4,51867
+"NT","0-16","Mobile camera",9,"camera_issued",3,51867
+"NT","0-16","Mobile camera",10,"camera_issued",3,51867
+"NT","0-16","Mobile camera",12,"camera_issued",3,51867
+"NT","0-16","Police issued",1,"police_issued",2,51867
+"NT","0-16","Police issued",2,"police_issued",1,51867
+"NT","0-16","Police issued",4,"police_issued",3,51867
+"NT","0-16","Police issued",5,"police_issued",2,51867
+"NT","0-16","Police issued",7,"police_issued",1,51867
+"NT","0-16","Police issued",8,"police_issued",1,51867
+"NT","0-16","Police issued",9,"police_issued",1,51867
+"NT","0-16","Police issued",10,"police_issued",2,51867
+"NT","0-16","Police issued",11,"police_issued",2,51867
+"NT","0-16","Red light camera",3,"camera_issued",2,51867
+"NT","0-16","Red light camera",4,"camera_issued",2,51867
+"NT","0-16","Red light camera",5,"camera_issued",1,51867
+"NT","0-16","Red light camera",6,"camera_issued",3,51867
+"NT","0-16","Red light camera",8,"camera_issued",1,51867
+"NT","0-16","Red light camera",11,"camera_issued",2,51867
+"NT","0-16","Red light camera",12,"camera_issued",1,51867
+"NT","17-25","Mobile camera",1,"camera_issued",307,33098
+"NT","17-25","Mobile camera",2,"camera_issued",251,33098
+"NT","17-25","Mobile camera",3,"camera_issued",294,33098
+"NT","17-25","Mobile camera",4,"camera_issued",260,33098
+"NT","17-25","Mobile camera",5,"camera_issued",311,33098
+"NT","17-25","Mobile camera",6,"camera_issued",327,33098
+"NT","17-25","Mobile camera",7,"camera_issued",394,33098
+"NT","17-25","Mobile camera",8,"camera_issued",425,33098
+"NT","17-25","Mobile camera",9,"camera_issued",411,33098
+"NT","17-25","Mobile camera",10,"camera_issued",329,33098
+"NT","17-25","Mobile camera",11,"camera_issued",250,33098
+"NT","17-25","Mobile camera",12,"camera_issued",607,33098
+"NT","17-25","Police issued",1,"police_issued",98,33098
+"NT","17-25","Police issued",2,"police_issued",40,33098
+"NT","17-25","Police issued",3,"police_issued",51,33098
+"NT","17-25","Police issued",4,"police_issued",85,33098
+"NT","17-25","Police issued",5,"police_issued",42,33098
+"NT","17-25","Police issued",6,"police_issued",56,33098
+"NT","17-25","Police issued",7,"police_issued",57,33098
+"NT","17-25","Police issued",8,"police_issued",45,33098
+"NT","17-25","Police issued",9,"police_issued",73,33098
+"NT","17-25","Police issued",10,"police_issued",51,33098
+"NT","17-25","Police issued",11,"police_issued",47,33098
+"NT","17-25","Police issued",12,"police_issued",28,33098
+"NT","17-25","Red light camera",1,"camera_issued",55,33098
+"NT","17-25","Red light camera",2,"camera_issued",85,33098
+"NT","17-25","Red light camera",3,"camera_issued",61,33098
+"NT","17-25","Red light camera",4,"camera_issued",81,33098
+"NT","17-25","Red light camera",5,"camera_issued",104,33098
+"NT","17-25","Red light camera",6,"camera_issued",90,33098
+"NT","17-25","Red light camera",7,"camera_issued",81,33098
+"NT","17-25","Red light camera",8,"camera_issued",49,33098
+"NT","17-25","Red light camera",9,"camera_issued",28,33098
+"NT","17-25","Red light camera",10,"camera_issued",49,33098
+"NT","17-25","Red light camera",11,"camera_issued",59,33098
+"NT","17-25","Red light camera",12,"camera_issued",68,33098
+"NT","26-39","Mobile camera",1,"camera_issued",649,69530
+"NT","26-39","Mobile camera",2,"camera_issued",639,69530
+"NT","26-39","Mobile camera",3,"camera_issued",665,69530
+"NT","26-39","Mobile camera",4,"camera_issued",592,69530
+"NT","26-39","Mobile camera",5,"camera_issued",830,69530
+"NT","26-39","Mobile camera",6,"camera_issued",818,69530
+"NT","26-39","Mobile camera",7,"camera_issued",982,69530
+"NT","26-39","Mobile camera",8,"camera_issued",972,69530
+"NT","26-39","Mobile camera",9,"camera_issued",1077,69530
+"NT","26-39","Mobile camera",10,"camera_issued",885,69530
+"NT","26-39","Mobile camera",11,"camera_issued",661,69530
+"NT","26-39","Mobile camera",12,"camera_issued",1598,69530
+"NT","26-39","Police issued",1,"police_issued",141,69530
+"NT","26-39","Police issued",2,"police_issued",121,69530
+"NT","26-39","Police issued",3,"police_issued",73,69530
+"NT","26-39","Police issued",4,"police_issued",156,69530
+"NT","26-39","Police issued",5,"police_issued",103,69530
+"NT","26-39","Police issued",6,"police_issued",114,69530
+"NT","26-39","Police issued",7,"police_issued",115,69530
+"NT","26-39","Police issued",8,"police_issued",100,69530
+"NT","26-39","Police issued",9,"police_issued",114,69530
+"NT","26-39","Police issued",10,"police_issued",98,69530
+"NT","26-39","Police issued",11,"police_issued",95,69530
+"NT","26-39","Police issued",12,"police_issued",78,69530
+"NT","26-39","Red light camera",1,"camera_issued",207,69530
+"NT","26-39","Red light camera",2,"camera_issued",228,69530
+"NT","26-39","Red light camera",3,"camera_issued",241,69530
+"NT","26-39","Red light camera",4,"camera_issued",231,69530
+"NT","26-39","Red light camera",5,"camera_issued",419,69530
+"NT","26-39","Red light camera",6,"camera_issued",346,69530
+"NT","26-39","Red light camera",7,"camera_issued",260,69530
+"NT","26-39","Red light camera",8,"camera_issued",148,69530
+"NT","26-39","Red light camera",9,"camera_issued",49,69530
+"NT","26-39","Red light camera",10,"camera_issued",121,69530
+"NT","26-39","Red light camera",11,"camera_issued",133,69530
+"NT","26-39","Red light camera",12,"camera_issued",224,69530
+"NT","40-64","Mobile camera",1,"camera_issued",710,75114
+"NT","40-64","Mobile camera",2,"camera_issued",702,75114
+"NT","40-64","Mobile camera",3,"camera_issued",794,75114
+"NT","40-64","Mobile camera",4,"camera_issued",746,75114
+"NT","40-64","Mobile camera",5,"camera_issued",1067,75114
+"NT","40-64","Mobile camera",6,"camera_issued",981,75114
+"NT","40-64","Mobile camera",7,"camera_issued",1222,75114
+"NT","40-64","Mobile camera",8,"camera_issued",1175,75114
+"NT","40-64","Mobile camera",9,"camera_issued",1344,75114
+"NT","40-64","Mobile camera",10,"camera_issued",1082,75114
+"NT","40-64","Mobile camera",11,"camera_issued",809,75114
+"NT","40-64","Mobile camera",12,"camera_issued",1978,75114
+"NT","40-64","Police issued",1,"police_issued",126,75114
+"NT","40-64","Police issued",2,"police_issued",100,75114
+"NT","40-64","Police issued",3,"police_issued",72,75114
+"NT","40-64","Police issued",4,"police_issued",179,75114
+"NT","40-64","Police issued",5,"police_issued",82,75114
+"NT","40-64","Police issued",6,"police_issued",100,75114
+"NT","40-64","Police issued",7,"police_issued",132,75114
+"NT","40-64","Police issued",8,"police_issued",103,75114
+"NT","40-64","Police issued",9,"police_issued",102,75114
+"NT","40-64","Police issued",10,"police_issued",106,75114
+"NT","40-64","Police issued",11,"police_issued",79,75114
+"NT","40-64","Police issued",12,"police_issued",65,75114
+"NT","40-64","Red light camera",1,"camera_issued",301,75114
+"NT","40-64","Red light camera",2,"camera_issued",381,75114
+"NT","40-64","Red light camera",3,"camera_issued",382,75114
+"NT","40-64","Red light camera",4,"camera_issued",342,75114
+"NT","40-64","Red light camera",5,"camera_issued",532,75114
+"NT","40-64","Red light camera",6,"camera_issued",468,75114
+"NT","40-64","Red light camera",7,"camera_issued",397,75114
+"NT","40-64","Red light camera",8,"camera_issued",245,75114
+"NT","40-64","Red light camera",9,"camera_issued",98,75114
+"NT","40-64","Red light camera",10,"camera_issued",160,75114
+"NT","40-64","Red light camera",11,"camera_issued",206,75114
+"NT","40-64","Red light camera",12,"camera_issued",291,75114
+"NT","65 and over","Mobile camera",1,"camera_issued",159,23346
+"NT","65 and over","Mobile camera",2,"camera_issued",154,23346
+"NT","65 and over","Mobile camera",3,"camera_issued",199,23346
+"NT","65 and over","Mobile camera",4,"camera_issued",196,23346
+"NT","65 and over","Mobile camera",5,"camera_issued",297,23346
+"NT","65 and over","Mobile camera",6,"camera_issued",303,23346
+"NT","65 and over","Mobile camera",7,"camera_issued",316,23346
+"NT","65 and over","Mobile camera",8,"camera_issued",327,23346
+"NT","65 and over","Mobile camera",9,"camera_issued",334,23346
+"NT","65 and over","Mobile camera",10,"camera_issued",262,23346
+"NT","65 and over","Mobile camera",11,"camera_issued",220,23346
+"NT","65 and over","Mobile camera",12,"camera_issued",456,23346
+"NT","65 and over","Police issued",1,"police_issued",20,23346
+"NT","65 and over","Police issued",2,"police_issued",19,23346
+"NT","65 and over","Police issued",3,"police_issued",14,23346
+"NT","65 and over","Police issued",4,"police_issued",23,23346
+"NT","65 and over","Police issued",5,"police_issued",10,23346
+"NT","65 and over","Police issued",6,"police_issued",26,23346
+"NT","65 and over","Police issued",7,"police_issued",17,23346
+"NT","65 and over","Police issued",8,"police_issued",12,23346
+"NT","65 and over","Police issued",9,"police_issued",19,23346
+"NT","65 and over","Police issued",10,"police_issued",11,23346
+"NT","65 and over","Police issued",11,"police_issued",15,23346
+"NT","65 and over","Police issued",12,"police_issued",14,23346
+"NT","65 and over","Red light camera",1,"camera_issued",70,23346
+"NT","65 and over","Red light camera",2,"camera_issued",74,23346
+"NT","65 and over","Red light camera",3,"camera_issued",70,23346
+"NT","65 and over","Red light camera",4,"camera_issued",68,23346
+"NT","65 and over","Red light camera",5,"camera_issued",120,23346
+"NT","65 and over","Red light camera",6,"camera_issued",105,23346
+"NT","65 and over","Red light camera",7,"camera_issued",76,23346
+"NT","65 and over","Red light camera",8,"camera_issued",40,23346
+"NT","65 and over","Red light camera",9,"camera_issued",22,23346
+"NT","65 and over","Red light camera",10,"camera_issued",33,23346
+"NT","65 and over","Red light camera",11,"camera_issued",37,23346
+"NT","65 and over","Red light camera",12,"camera_issued",50,23346
+"SA","0-16","Fixed camera",1,"camera_issued",0,312543
+"SA","0-16","Fixed camera",2,"camera_issued",0,312543
+"SA","0-16","Fixed camera",3,"camera_issued",0,312543
+"SA","0-16","Fixed camera",4,"camera_issued",0,312543
+"SA","0-16","Fixed camera",5,"camera_issued",0,312543
+"SA","0-16","Fixed camera",6,"camera_issued",1,312543
+"SA","0-16","Fixed camera",7,"camera_issued",0,312543
+"SA","0-16","Fixed camera",8,"camera_issued",0,312543
+"SA","0-16","Fixed camera",9,"camera_issued",0,312543
+"SA","0-16","Fixed camera",10,"camera_issued",0,312543
+"SA","0-16","Fixed camera",11,"camera_issued",1,312543
+"SA","0-16","Fixed camera",12,"camera_issued",2,312543
+"SA","0-16","Mobile camera",1,"camera_issued",0,312543
+"SA","0-16","Mobile camera",2,"camera_issued",0,312543
+"SA","0-16","Mobile camera",3,"camera_issued",0,312543
+"SA","0-16","Mobile camera",4,"camera_issued",0,312543
+"SA","0-16","Mobile camera",5,"camera_issued",0,312543
+"SA","0-16","Mobile camera",6,"camera_issued",3,312543
+"SA","0-16","Mobile camera",7,"camera_issued",0,312543
+"SA","0-16","Mobile camera",8,"camera_issued",0,312543
+"SA","0-16","Mobile camera",9,"camera_issued",0,312543
+"SA","0-16","Mobile camera",10,"camera_issued",2,312543
+"SA","0-16","Mobile camera",11,"camera_issued",1,312543
+"SA","0-16","Mobile camera",12,"camera_issued",0,312543
+"SA","0-16","Police issued",1,"police_issued",0,312543
+"SA","0-16","Police issued",2,"police_issued",0,312543
+"SA","0-16","Police issued",3,"police_issued",0,312543
+"SA","0-16","Police issued",4,"police_issued",0,312543
+"SA","0-16","Police issued",5,"police_issued",0,312543
+"SA","0-16","Police issued",6,"police_issued",2,312543
+"SA","0-16","Police issued",7,"police_issued",4,312543
+"SA","0-16","Police issued",8,"police_issued",0,312543
+"SA","0-16","Police issued",9,"police_issued",0,312543
+"SA","0-16","Police issued",10,"police_issued",1,312543
+"SA","0-16","Police issued",11,"police_issued",2,312543
+"SA","0-16","Police issued",12,"police_issued",2,312543
+"SA","17-25","Fixed camera",1,"camera_issued",483,222747
+"SA","17-25","Fixed camera",2,"camera_issued",482,222747
+"SA","17-25","Fixed camera",3,"camera_issued",592,222747
+"SA","17-25","Fixed camera",4,"camera_issued",411,222747
+"SA","17-25","Fixed camera",5,"camera_issued",487,222747
+"SA","17-25","Fixed camera",6,"camera_issued",523,222747
+"SA","17-25","Fixed camera",7,"camera_issued",493,222747
+"SA","17-25","Fixed camera",8,"camera_issued",491,222747
+"SA","17-25","Fixed camera",9,"camera_issued",476,222747
+"SA","17-25","Fixed camera",10,"camera_issued",429,222747
+"SA","17-25","Fixed camera",11,"camera_issued",488,222747
+"SA","17-25","Fixed camera",12,"camera_issued",370,222747
+"SA","17-25","Mobile camera",1,"camera_issued",885,222747
+"SA","17-25","Mobile camera",2,"camera_issued",886,222747
+"SA","17-25","Mobile camera",3,"camera_issued",882,222747
+"SA","17-25","Mobile camera",4,"camera_issued",694,222747
+"SA","17-25","Mobile camera",5,"camera_issued",910,222747
+"SA","17-25","Mobile camera",6,"camera_issued",946,222747
+"SA","17-25","Mobile camera",7,"camera_issued",860,222747
+"SA","17-25","Mobile camera",8,"camera_issued",871,222747
+"SA","17-25","Mobile camera",9,"camera_issued",860,222747
+"SA","17-25","Mobile camera",10,"camera_issued",799,222747
+"SA","17-25","Mobile camera",11,"camera_issued",903,222747
+"SA","17-25","Mobile camera",12,"camera_issued",599,222747
+"SA","17-25","Police issued",1,"police_issued",710,222747
+"SA","17-25","Police issued",2,"police_issued",609,222747
+"SA","17-25","Police issued",3,"police_issued",771,222747
+"SA","17-25","Police issued",4,"police_issued",729,222747
+"SA","17-25","Police issued",5,"police_issued",601,222747
+"SA","17-25","Police issued",6,"police_issued",696,222747
+"SA","17-25","Police issued",7,"police_issued",766,222747
+"SA","17-25","Police issued",8,"police_issued",719,222747
+"SA","17-25","Police issued",9,"police_issued",755,222747
+"SA","17-25","Police issued",10,"police_issued",719,222747
+"SA","17-25","Police issued",11,"police_issued",759,222747
+"SA","17-25","Police issued",12,"police_issued",709,222747
+"SA","26-39","Fixed camera",1,"camera_issued",1229,378363
+"SA","26-39","Fixed camera",2,"camera_issued",1083,378363
+"SA","26-39","Fixed camera",3,"camera_issued",1585,378363
+"SA","26-39","Fixed camera",4,"camera_issued",1059,378363
+"SA","26-39","Fixed camera",5,"camera_issued",1311,378363
+"SA","26-39","Fixed camera",6,"camera_issued",1245,378363
+"SA","26-39","Fixed camera",7,"camera_issued",1154,378363
+"SA","26-39","Fixed camera",8,"camera_issued",1155,378363
+"SA","26-39","Fixed camera",9,"camera_issued",1140,378363
+"SA","26-39","Fixed camera",10,"camera_issued",1247,378363
+"SA","26-39","Fixed camera",11,"camera_issued",1189,378363
+"SA","26-39","Fixed camera",12,"camera_issued",876,378363
+"SA","26-39","Mobile camera",1,"camera_issued",2462,378363
+"SA","26-39","Mobile camera",2,"camera_issued",2458,378363
+"SA","26-39","Mobile camera",3,"camera_issued",2410,378363
+"SA","26-39","Mobile camera",4,"camera_issued",1836,378363
+"SA","26-39","Mobile camera",5,"camera_issued",2279,378363
+"SA","26-39","Mobile camera",6,"camera_issued",2291,378363
+"SA","26-39","Mobile camera",7,"camera_issued",2155,378363
+"SA","26-39","Mobile camera",8,"camera_issued",2501,378363
+"SA","26-39","Mobile camera",9,"camera_issued",2305,378363
+"SA","26-39","Mobile camera",10,"camera_issued",2223,378363
+"SA","26-39","Mobile camera",11,"camera_issued",2343,378363
+"SA","26-39","Mobile camera",12,"camera_issued",1581,378363
+"SA","26-39","Police issued",1,"police_issued",1230,378363
+"SA","26-39","Police issued",2,"police_issued",1131,378363
+"SA","26-39","Police issued",3,"police_issued",1425,378363
+"SA","26-39","Police issued",4,"police_issued",1252,378363
+"SA","26-39","Police issued",5,"police_issued",1115,378363
+"SA","26-39","Police issued",6,"police_issued",1172,378363
+"SA","26-39","Police issued",7,"police_issued",1270,378363
+"SA","26-39","Police issued",8,"police_issued",1311,378363
+"SA","26-39","Police issued",9,"police_issued",1380,378363
+"SA","26-39","Police issued",10,"police_issued",1328,378363
+"SA","26-39","Police issued",11,"police_issued",1330,378363
+"SA","26-39","Police issued",12,"police_issued",1287,378363
+"SA","40-64","Fixed camera",1,"camera_issued",2426,569029
+"SA","40-64","Fixed camera",2,"camera_issued",2287,569029
+"SA","40-64","Fixed camera",3,"camera_issued",2808,569029
+"SA","40-64","Fixed camera",4,"camera_issued",1982,569029
+"SA","40-64","Fixed camera",5,"camera_issued",2506,569029
+"SA","40-64","Fixed camera",6,"camera_issued",2205,569029
+"SA","40-64","Fixed camera",7,"camera_issued",2046,569029
+"SA","40-64","Fixed camera",8,"camera_issued",2191,569029
+"SA","40-64","Fixed camera",9,"camera_issued",2030,569029
+"SA","40-64","Fixed camera",10,"camera_issued",2098,569029
+"SA","40-64","Fixed camera",11,"camera_issued",2103,569029
+"SA","40-64","Fixed camera",12,"camera_issued",1773,569029
+"SA","40-64","Mobile camera",1,"camera_issued",4161,569029
+"SA","40-64","Mobile camera",2,"camera_issued",4066,569029
+"SA","40-64","Mobile camera",3,"camera_issued",4072,569029
+"SA","40-64","Mobile camera",4,"camera_issued",3095,569029
+"SA","40-64","Mobile camera",5,"camera_issued",3762,569029
+"SA","40-64","Mobile camera",6,"camera_issued",4028,569029
+"SA","40-64","Mobile camera",7,"camera_issued",3455,569029
+"SA","40-64","Mobile camera",8,"camera_issued",3960,569029
+"SA","40-64","Mobile camera",9,"camera_issued",3651,569029
+"SA","40-64","Mobile camera",10,"camera_issued",3458,569029
+"SA","40-64","Mobile camera",11,"camera_issued",3945,569029
+"SA","40-64","Mobile camera",12,"camera_issued",2638,569029
+"SA","40-64","Police issued",1,"police_issued",1428,569029
+"SA","40-64","Police issued",2,"police_issued",1408,569029
+"SA","40-64","Police issued",3,"police_issued",1725,569029
+"SA","40-64","Police issued",4,"police_issued",1709,569029
+"SA","40-64","Police issued",5,"police_issued",1441,569029
+"SA","40-64","Police issued",6,"police_issued",1505,569029
+"SA","40-64","Police issued",7,"police_issued",1646,569029
+"SA","40-64","Police issued",8,"police_issued",1711,569029
+"SA","40-64","Police issued",9,"police_issued",1717,569029
+"SA","40-64","Police issued",10,"police_issued",1617,569029
+"SA","40-64","Police issued",11,"police_issued",1817,569029
+"SA","40-64","Police issued",12,"police_issued",1566,569029
+"SA","65 and over","Fixed camera",1,"camera_issued",996,370382
+"SA","65 and over","Fixed camera",2,"camera_issued",880,370382
+"SA","65 and over","Fixed camera",3,"camera_issued",1118,370382
+"SA","65 and over","Fixed camera",4,"camera_issued",768,370382
+"SA","65 and over","Fixed camera",5,"camera_issued",941,370382
+"SA","65 and over","Fixed camera",6,"camera_issued",806,370382
+"SA","65 and over","Fixed camera",7,"camera_issued",719,370382
+"SA","65 and over","Fixed camera",8,"camera_issued",808,370382
+"SA","65 and over","Fixed camera",9,"camera_issued",822,370382
+"SA","65 and over","Fixed camera",10,"camera_issued",909,370382
+"SA","65 and over","Fixed camera",11,"camera_issued",742,370382
+"SA","65 and over","Fixed camera",12,"camera_issued",709,370382
+"SA","65 and over","Mobile camera",1,"camera_issued",1310,370382
+"SA","65 and over","Mobile camera",2,"camera_issued",1074,370382
+"SA","65 and over","Mobile camera",3,"camera_issued",1104,370382
+"SA","65 and over","Mobile camera",4,"camera_issued",1016,370382
+"SA","65 and over","Mobile camera",5,"camera_issued",1024,370382
+"SA","65 and over","Mobile camera",6,"camera_issued",1120,370382
+"SA","65 and over","Mobile camera",7,"camera_issued",953,370382
+"SA","65 and over","Mobile camera",8,"camera_issued",1099,370382
+"SA","65 and over","Mobile camera",9,"camera_issued",1052,370382
+"SA","65 and over","Mobile camera",10,"camera_issued",1113,370382
+"SA","65 and over","Mobile camera",11,"camera_issued",1329,370382
+"SA","65 and over","Mobile camera",12,"camera_issued",847,370382
+"SA","65 and over","Police issued",1,"police_issued",355,370382
+"SA","65 and over","Police issued",2,"police_issued",356,370382
+"SA","65 and over","Police issued",3,"police_issued",447,370382
+"SA","65 and over","Police issued",4,"police_issued",426,370382
+"SA","65 and over","Police issued",5,"police_issued",416,370382
+"SA","65 and over","Police issued",6,"police_issued",362,370382
+"SA","65 and over","Police issued",7,"police_issued",407,370382
+"SA","65 and over","Police issued",8,"police_issued",456,370382
+"SA","65 and over","Police issued",9,"police_issued",465,370382
+"SA","65 and over","Police issued",10,"police_issued",436,370382
+"SA","65 and over","Police issued",11,"police_issued",543,370382
+"SA","65 and over","Police issued",12,"police_issued",452,370382
+"TAS","0-16","Fixed or mobile camera",4,"camera_issued",1,93905
+"TAS","0-16","Fixed or mobile camera",5,"camera_issued",3,93905
+"TAS","0-16","Fixed or mobile camera",6,"camera_issued",2,93905
+"TAS","0-16","Fixed or mobile camera",7,"camera_issued",1,93905
+"TAS","0-16","Fixed or mobile camera",8,"camera_issued",3,93905
+"TAS","0-16","Fixed or mobile camera",9,"camera_issued",3,93905
+"TAS","0-16","Fixed or mobile camera",11,"camera_issued",1,93905
+"TAS","0-16","Fixed or mobile camera",12,"camera_issued",1,93905
+"TAS","0-16","Police issued",2,"police_issued",0,93905
+"TAS","0-16","Police issued",3,"police_issued",0,93905
+"TAS","0-16","Police issued",6,"police_issued",1,93905
+"TAS","0-16","Police issued",9,"police_issued",0,93905
+"TAS","0-16","Police issued",10,"police_issued",1,93905
+"TAS","0-16","Police issued",11,"police_issued",0,93905
+"TAS","0-16","Police issued",12,"police_issued",1,93905
+"TAS","17-25","Fixed or mobile camera",1,"camera_issued",577,63192
+"TAS","17-25","Fixed or mobile camera",2,"camera_issued",389,63192
+"TAS","17-25","Fixed or mobile camera",3,"camera_issued",319,63192
+"TAS","17-25","Fixed or mobile camera",4,"camera_issued",370,63192
+"TAS","17-25","Fixed or mobile camera",5,"camera_issued",427,63192
+"TAS","17-25","Fixed or mobile camera",6,"camera_issued",488,63192
+"TAS","17-25","Fixed or mobile camera",7,"camera_issued",509,63192
+"TAS","17-25","Fixed or mobile camera",8,"camera_issued",474,63192
+"TAS","17-25","Fixed or mobile camera",9,"camera_issued",371,63192
+"TAS","17-25","Fixed or mobile camera",10,"camera_issued",509,63192
+"TAS","17-25","Fixed or mobile camera",11,"camera_issued",636,63192
+"TAS","17-25","Fixed or mobile camera",12,"camera_issued",456,63192
+"TAS","17-25","Police issued",1,"police_issued",447,63192
+"TAS","17-25","Police issued",2,"police_issued",319,63192
+"TAS","17-25","Police issued",3,"police_issued",301,63192
+"TAS","17-25","Police issued",4,"police_issued",321,63192
+"TAS","17-25","Police issued",5,"police_issued",324,63192
+"TAS","17-25","Police issued",6,"police_issued",265,63192
+"TAS","17-25","Police issued",7,"police_issued",316,63192
+"TAS","17-25","Police issued",8,"police_issued",294,63192
+"TAS","17-25","Police issued",9,"police_issued",384,63192
+"TAS","17-25","Police issued",10,"police_issued",322,63192
+"TAS","17-25","Police issued",11,"police_issued",295,63192
+"TAS","17-25","Police issued",12,"police_issued",294,63192
+"TAS","26-39","Fixed or mobile camera",1,"camera_issued",1568,116179
+"TAS","26-39","Fixed or mobile camera",2,"camera_issued",1001,116179
+"TAS","26-39","Fixed or mobile camera",3,"camera_issued",860,116179
+"TAS","26-39","Fixed or mobile camera",4,"camera_issued",903,116179
+"TAS","26-39","Fixed or mobile camera",5,"camera_issued",1188,116179
+"TAS","26-39","Fixed or mobile camera",6,"camera_issued",1158,116179
+"TAS","26-39","Fixed or mobile camera",7,"camera_issued",1200,116179
+"TAS","26-39","Fixed or mobile camera",8,"camera_issued",1128,116179
+"TAS","26-39","Fixed or mobile camera",9,"camera_issued",854,116179
+"TAS","26-39","Fixed or mobile camera",10,"camera_issued",1360,116179
+"TAS","26-39","Fixed or mobile camera",11,"camera_issued",1549,116179
+"TAS","26-39","Fixed or mobile camera",12,"camera_issued",1209,116179
+"TAS","26-39","Police issued",1,"police_issued",736,116179
+"TAS","26-39","Police issued",2,"police_issued",562,116179
+"TAS","26-39","Police issued",3,"police_issued",517,116179
+"TAS","26-39","Police issued",4,"police_issued",523,116179
+"TAS","26-39","Police issued",5,"police_issued",539,116179
+"TAS","26-39","Police issued",6,"police_issued",427,116179
+"TAS","26-39","Police issued",7,"police_issued",489,116179
+"TAS","26-39","Police issued",8,"police_issued",504,116179
+"TAS","26-39","Police issued",9,"police_issued",580,116179
+"TAS","26-39","Police issued",10,"police_issued",520,116179
+"TAS","26-39","Police issued",11,"police_issued",469,116179
+"TAS","26-39","Police issued",12,"police_issued",442,116179
+"TAS","40-64","Fixed or mobile camera",1,"camera_issued",1903,177791
+"TAS","40-64","Fixed or mobile camera",2,"camera_issued",1193,177791
+"TAS","40-64","Fixed or mobile camera",3,"camera_issued",1118,177791
+"TAS","40-64","Fixed or mobile camera",4,"camera_issued",1246,177791
+"TAS","40-64","Fixed or mobile camera",5,"camera_issued",1624,177791
+"TAS","40-64","Fixed or mobile camera",6,"camera_issued",1614,177791
+"TAS","40-64","Fixed or mobile camera",7,"camera_issued",1660,177791
+"TAS","40-64","Fixed or mobile camera",8,"camera_issued",1692,177791
+"TAS","40-64","Fixed or mobile camera",9,"camera_issued",1180,177791
+"TAS","40-64","Fixed or mobile camera",10,"camera_issued",1916,177791
+"TAS","40-64","Fixed or mobile camera",11,"camera_issued",2159,177791
+"TAS","40-64","Fixed or mobile camera",12,"camera_issued",1740,177791
+"TAS","40-64","Police issued",1,"police_issued",834,177791
+"TAS","40-64","Police issued",2,"police_issued",642,177791
+"TAS","40-64","Police issued",3,"police_issued",640,177791
+"TAS","40-64","Police issued",4,"police_issued",539,177791
+"TAS","40-64","Police issued",5,"police_issued",656,177791
+"TAS","40-64","Police issued",6,"police_issued",469,177791
+"TAS","40-64","Police issued",7,"police_issued",598,177791
+"TAS","40-64","Police issued",8,"police_issued",536,177791
+"TAS","40-64","Police issued",9,"police_issued",675,177791
+"TAS","40-64","Police issued",10,"police_issued",630,177791
+"TAS","40-64","Police issued",11,"police_issued",537,177791
+"TAS","40-64","Police issued",12,"police_issued",525,177791
+"TAS","65 and over","Fixed or mobile camera",1,"camera_issued",623,122412
+"TAS","65 and over","Fixed or mobile camera",2,"camera_issued",419,122412
+"TAS","65 and over","Fixed or mobile camera",3,"camera_issued",434,122412
+"TAS","65 and over","Fixed or mobile camera",4,"camera_issued",458,122412
+"TAS","65 and over","Fixed or mobile camera",5,"camera_issued",548,122412
+"TAS","65 and over","Fixed or mobile camera",6,"camera_issued",613,122412
+"TAS","65 and over","Fixed or mobile camera",7,"camera_issued",585,122412
+"TAS","65 and over","Fixed or mobile camera",8,"camera_issued",561,122412
+"TAS","65 and over","Fixed or mobile camera",9,"camera_issued",393,122412
+"TAS","65 and over","Fixed or mobile camera",10,"camera_issued",761,122412
+"TAS","65 and over","Fixed or mobile camera",11,"camera_issued",784,122412
+"TAS","65 and over","Fixed or mobile camera",12,"camera_issued",641,122412
+"TAS","65 and over","Police issued",1,"police_issued",239,122412
+"TAS","65 and over","Police issued",2,"police_issued",207,122412
+"TAS","65 and over","Police issued",3,"police_issued",181,122412
+"TAS","65 and over","Police issued",4,"police_issued",158,122412
+"TAS","65 and over","Police issued",5,"police_issued",181,122412
+"TAS","65 and over","Police issued",6,"police_issued",134,122412
+"TAS","65 and over","Police issued",7,"police_issued",175,122412
+"TAS","65 and over","Police issued",8,"police_issued",168,122412
+"TAS","65 and over","Police issued",9,"police_issued",181,122412
+"TAS","65 and over","Police issued",10,"police_issued",184,122412
+"TAS","65 and over","Police issued",11,"police_issued",161,122412
+"TAS","65 and over","Police issued",12,"police_issued",179,122412
+"VIC","0-16","Police issued",2,"police_issued",2,1206545
+"VIC","0-16","Police issued",3,"police_issued",1,1206545
+"VIC","0-16","Police issued",4,"police_issued",1,1206545
+"VIC","0-16","Police issued",6,"police_issued",4,1206545
+"VIC","0-16","Police issued",7,"police_issued",2,1206545
+"VIC","0-16","Police issued",8,"police_issued",1,1206545
+"VIC","0-16","Police issued",9,"police_issued",1,1206545
+"VIC","0-16","Police issued",11,"police_issued",2,1206545
+"VIC","0-16","Police issued",12,"police_issued",1,1206545
+"VIC","17-25","Fixed camera",1,"camera_issued",3028,856412
+"VIC","17-25","Fixed camera",2,"camera_issued",2250,856412
+"VIC","17-25","Fixed camera",3,"camera_issued",2518,856412
+"VIC","17-25","Fixed camera",4,"camera_issued",2378,856412
+"VIC","17-25","Fixed camera",5,"camera_issued",2620,856412
+"VIC","17-25","Fixed camera",6,"camera_issued",2989,856412
+"VIC","17-25","Fixed camera",7,"camera_issued",2860,856412
+"VIC","17-25","Fixed camera",8,"camera_issued",3150,856412
+"VIC","17-25","Fixed camera",9,"camera_issued",3039,856412
+"VIC","17-25","Fixed camera",10,"camera_issued",3385,856412
+"VIC","17-25","Fixed camera",11,"camera_issued",3987,856412
+"VIC","17-25","Fixed camera",12,"camera_issued",4179,856412
+"VIC","17-25","Mobile camera",1,"camera_issued",2734,856412
+"VIC","17-25","Mobile camera",2,"camera_issued",2526,856412
+"VIC","17-25","Mobile camera",3,"camera_issued",2773,856412
+"VIC","17-25","Mobile camera",4,"camera_issued",2666,856412
+"VIC","17-25","Mobile camera",5,"camera_issued",2569,856412
+"VIC","17-25","Mobile camera",6,"camera_issued",2743,856412
+"VIC","17-25","Mobile camera",7,"camera_issued",2914,856412
+"VIC","17-25","Mobile camera",8,"camera_issued",2904,856412
+"VIC","17-25","Mobile camera",9,"camera_issued",3097,856412
+"VIC","17-25","Mobile camera",10,"camera_issued",2870,856412
+"VIC","17-25","Mobile camera",11,"camera_issued",3302,856412
+"VIC","17-25","Mobile camera",12,"camera_issued",3162,856412
+"VIC","17-25","Police issued",1,"police_issued",2085,856412
+"VIC","17-25","Police issued",2,"police_issued",1576,856412
+"VIC","17-25","Police issued",3,"police_issued",1856,856412
+"VIC","17-25","Police issued",4,"police_issued",1814,856412
+"VIC","17-25","Police issued",5,"police_issued",1597,856412
+"VIC","17-25","Police issued",6,"police_issued",1807,856412
+"VIC","17-25","Police issued",7,"police_issued",1950,856412
+"VIC","17-25","Police issued",8,"police_issued",1964,856412
+"VIC","17-25","Police issued",9,"police_issued",1875,856412
+"VIC","17-25","Police issued",10,"police_issued",1654,856412
+"VIC","17-25","Police issued",11,"police_issued",1987,856412
+"VIC","17-25","Police issued",12,"police_issued",2349,856412
+"VIC","26-39","Fixed camera",1,"camera_issued",12525,1570987
+"VIC","26-39","Fixed camera",2,"camera_issued",9302,1570987
+"VIC","26-39","Fixed camera",3,"camera_issued",10282,1570987
+"VIC","26-39","Fixed camera",4,"camera_issued",9733,1570987
+"VIC","26-39","Fixed camera",5,"camera_issued",10487,1570987
+"VIC","26-39","Fixed camera",6,"camera_issued",10783,1570987
+"VIC","26-39","Fixed camera",7,"camera_issued",9888,1570987
+"VIC","26-39","Fixed camera",8,"camera_issued",11099,1570987
+"VIC","26-39","Fixed camera",9,"camera_issued",10885,1570987
+"VIC","26-39","Fixed camera",10,"camera_issued",11609,1570987
+"VIC","26-39","Fixed camera",11,"camera_issued",12952,1570987
+"VIC","26-39","Fixed camera",12,"camera_issued",13878,1570987
+"VIC","26-39","Mobile camera",1,"camera_issued",12530,1570987
+"VIC","26-39","Mobile camera",2,"camera_issued",11036,1570987
+"VIC","26-39","Mobile camera",3,"camera_issued",11845,1570987
+"VIC","26-39","Mobile camera",4,"camera_issued",11280,1570987
+"VIC","26-39","Mobile camera",5,"camera_issued",10321,1570987
+"VIC","26-39","Mobile camera",6,"camera_issued",10876,1570987
+"VIC","26-39","Mobile camera",7,"camera_issued",12002,1570987
+"VIC","26-39","Mobile camera",8,"camera_issued",11120,1570987
+"VIC","26-39","Mobile camera",9,"camera_issued",11491,1570987
+"VIC","26-39","Mobile camera",10,"camera_issued",10643,1570987
+"VIC","26-39","Mobile camera",11,"camera_issued",11286,1570987
+"VIC","26-39","Mobile camera",12,"camera_issued",11957,1570987
+"VIC","26-39","Police issued",1,"police_issued",3805,1570987
+"VIC","26-39","Police issued",2,"police_issued",3016,1570987
+"VIC","26-39","Police issued",3,"police_issued",3580,1570987
+"VIC","26-39","Police issued",4,"police_issued",3268,1570987
+"VIC","26-39","Police issued",5,"police_issued",3029,1570987
+"VIC","26-39","Police issued",6,"police_issued",3379,1570987
+"VIC","26-39","Police issued",7,"police_issued",3693,1570987
+"VIC","26-39","Police issued",8,"police_issued",3904,1570987
+"VIC","26-39","Police issued",9,"police_issued",3626,1570987
+"VIC","26-39","Police issued",10,"police_issued",3430,1570987
+"VIC","26-39","Police issued",11,"police_issued",3737,1570987
+"VIC","26-39","Police issued",12,"police_issued",4131,1570987
+"VIC","40-64","Fixed camera",1,"camera_issued",21272,2055300
+"VIC","40-64","Fixed camera",2,"camera_issued",15872,2055300
+"VIC","40-64","Fixed camera",3,"camera_issued",17730,2055300
+"VIC","40-64","Fixed camera",4,"camera_issued",16448,2055300
+"VIC","40-64","Fixed camera",5,"camera_issued",17438,2055300
+"VIC","40-64","Fixed camera",6,"camera_issued",16655,2055300
+"VIC","40-64","Fixed camera",7,"camera_issued",16089,2055300
+"VIC","40-64","Fixed camera",8,"camera_issued",18600,2055300
+"VIC","40-64","Fixed camera",9,"camera_issued",18443,2055300
+"VIC","40-64","Fixed camera",10,"camera_issued",19584,2055300
+"VIC","40-64","Fixed camera",11,"camera_issued",21257,2055300
+"VIC","40-64","Fixed camera",12,"camera_issued",22912,2055300
+"VIC","40-64","Mobile camera",1,"camera_issued",20504,2055300
+"VIC","40-64","Mobile camera",2,"camera_issued",18398,2055300
+"VIC","40-64","Mobile camera",3,"camera_issued",19610,2055300
+"VIC","40-64","Mobile camera",4,"camera_issued",18348,2055300
+"VIC","40-64","Mobile camera",5,"camera_issued",17422,2055300
+"VIC","40-64","Mobile camera",6,"camera_issued",17658,2055300
+"VIC","40-64","Mobile camera",7,"camera_issued",19422,2055300
+"VIC","40-64","Mobile camera",8,"camera_issued",17900,2055300
+"VIC","40-64","Mobile camera",9,"camera_issued",17621,2055300
+"VIC","40-64","Mobile camera",10,"camera_issued",16897,2055300
+"VIC","40-64","Mobile camera",11,"camera_issued",18413,2055300
+"VIC","40-64","Mobile camera",12,"camera_issued",18012,2055300
+"VIC","40-64","Police issued",1,"police_issued",4415,2055300
+"VIC","40-64","Police issued",2,"police_issued",3649,2055300
+"VIC","40-64","Police issued",3,"police_issued",4335,2055300
+"VIC","40-64","Police issued",4,"police_issued",3800,2055300
+"VIC","40-64","Police issued",5,"police_issued",3534,2055300
+"VIC","40-64","Police issued",6,"police_issued",4053,2055300
+"VIC","40-64","Police issued",7,"police_issued",4195,2055300
+"VIC","40-64","Police issued",8,"police_issued",4820,2055300
+"VIC","40-64","Police issued",9,"police_issued",4295,2055300
+"VIC","40-64","Police issued",10,"police_issued",4070,2055300
+"VIC","40-64","Police issued",11,"police_issued",4500,2055300
+"VIC","40-64","Police issued",12,"police_issued",4458,2055300
+"VIC","65 and over","Fixed camera",1,"camera_issued",6135,1129198
+"VIC","65 and over","Fixed camera",2,"camera_issued",4826,1129198
+"VIC","65 and over","Fixed camera",3,"camera_issued",5557,1129198
+"VIC","65 and over","Fixed camera",4,"camera_issued",5115,1129198
+"VIC","65 and over","Fixed camera",5,"camera_issued",5317,1129198
+"VIC","65 and over","Fixed camera",6,"camera_issued",4556,1129198
+"VIC","65 and over","Fixed camera",7,"camera_issued",4620,1129198
+"VIC","65 and over","Fixed camera",8,"camera_issued",5265,1129198
+"VIC","65 and over","Fixed camera",9,"camera_issued",5426,1129198
+"VIC","65 and over","Fixed camera",10,"camera_issued",6053,1129198
+"VIC","65 and over","Fixed camera",11,"camera_issued",6478,1129198
+"VIC","65 and over","Fixed camera",12,"camera_issued",6778,1129198
+"VIC","65 and over","Mobile camera",1,"camera_issued",6886,1129198
+"VIC","65 and over","Mobile camera",2,"camera_issued",6167,1129198
+"VIC","65 and over","Mobile camera",3,"camera_issued",6678,1129198
+"VIC","65 and over","Mobile camera",4,"camera_issued",6027,1129198
+"VIC","65 and over","Mobile camera",5,"camera_issued",5724,1129198
+"VIC","65 and over","Mobile camera",6,"camera_issued",5420,1129198
+"VIC","65 and over","Mobile camera",7,"camera_issued",6031,1129198
+"VIC","65 and over","Mobile camera",8,"camera_issued",5197,1129198
+"VIC","65 and over","Mobile camera",9,"camera_issued",5330,1129198
+"VIC","65 and over","Mobile camera",10,"camera_issued",5496,1129198
+"VIC","65 and over","Mobile camera",11,"camera_issued",5735,1129198
+"VIC","65 and over","Mobile camera",12,"camera_issued",5742,1129198
+"VIC","65 and over","Police issued",1,"police_issued",924,1129198
+"VIC","65 and over","Police issued",2,"police_issued",836,1129198
+"VIC","65 and over","Police issued",3,"police_issued",972,1129198
+"VIC","65 and over","Police issued",4,"police_issued",821,1129198
+"VIC","65 and over","Police issued",5,"police_issued",791,1129198
+"VIC","65 and over","Police issued",6,"police_issued",843,1129198
+"VIC","65 and over","Police issued",7,"police_issued",894,1129198
+"VIC","65 and over","Police issued",8,"police_issued",1125,1129198
+"VIC","65 and over","Police issued",9,"police_issued",864,1129198
+"VIC","65 and over","Police issued",10,"police_issued",1017,1129198
+"VIC","65 and over","Police issued",11,"police_issued",1061,1129198
+"VIC","65 and over","Police issued",12,"police_issued",998,1129198
+"WA","0-16","Fixed camera",5,"camera_issued",1,537236
+"WA","0-16","Fixed camera",6,"camera_issued",1,537236
+"WA","0-16","Fixed camera",7,"camera_issued",1,537236
+"WA","0-16","Fixed camera",8,"camera_issued",2,537236
+"WA","0-16","Fixed camera",10,"camera_issued",1,537236
+"WA","0-16","Fixed camera",11,"camera_issued",1,537236
+"WA","0-16","Mobile camera",1,"camera_issued",1,537236
+"WA","0-16","Mobile camera",4,"camera_issued",2,537236
+"WA","0-16","Mobile camera",6,"camera_issued",2,537236
+"WA","0-16","Mobile camera",7,"camera_issued",1,537236
+"WA","0-16","Mobile camera",8,"camera_issued",1,537236
+"WA","0-16","Mobile camera",9,"camera_issued",2,537236
+"WA","0-16","Mobile camera",10,"camera_issued",5,537236
+"WA","0-16","Mobile camera",11,"camera_issued",1,537236
+"WA","0-16","Mobile camera",12,"camera_issued",4,537236
+"WA","0-16","Police issued",10,"police_issued",2,537236
+"WA","0-16","Police issued",11,"police_issued",1,537236
+"WA","0-16","Red light camera",7,"camera_issued",1,537236
+"WA","0-16","Red light camera",8,"camera_issued",1,537236
+"WA","0-16","Red light camera",9,"camera_issued",1,537236
+"WA","0-16","Red light camera",10,"camera_issued",1,537236
+"WA","0-16","Red light camera",11,"camera_issued",1,537236
+"WA","17-25","Average speed camera",1,"camera_issued",229,351126
+"WA","17-25","Average speed camera",2,"camera_issued",251,351126
+"WA","17-25","Average speed camera",3,"camera_issued",266,351126
+"WA","17-25","Average speed camera",4,"camera_issued",228,351126
+"WA","17-25","Average speed camera",5,"camera_issued",218,351126
+"WA","17-25","Average speed camera",6,"camera_issued",180,351126
+"WA","17-25","Average speed camera",7,"camera_issued",205,351126
+"WA","17-25","Average speed camera",8,"camera_issued",243,351126
+"WA","17-25","Average speed camera",9,"camera_issued",159,351126
+"WA","17-25","Average speed camera",10,"camera_issued",213,351126
+"WA","17-25","Average speed camera",11,"camera_issued",340,351126
+"WA","17-25","Average speed camera",12,"camera_issued",264,351126
+"WA","17-25","Fixed camera",1,"camera_issued",1325,351126
+"WA","17-25","Fixed camera",2,"camera_issued",1052,351126
+"WA","17-25","Fixed camera",3,"camera_issued",1178,351126
+"WA","17-25","Fixed camera",4,"camera_issued",1103,351126
+"WA","17-25","Fixed camera",5,"camera_issued",866,351126
+"WA","17-25","Fixed camera",6,"camera_issued",842,351126
+"WA","17-25","Fixed camera",7,"camera_issued",969,351126
+"WA","17-25","Fixed camera",8,"camera_issued",1055,351126
+"WA","17-25","Fixed camera",9,"camera_issued",802,351126
+"WA","17-25","Fixed camera",10,"camera_issued",947,351126
+"WA","17-25","Fixed camera",11,"camera_issued",940,351126
+"WA","17-25","Fixed camera",12,"camera_issued",1065,351126
+"WA","17-25","Mobile camera",1,"camera_issued",3685,351126
+"WA","17-25","Mobile camera",2,"camera_issued",5145,351126
+"WA","17-25","Mobile camera",3,"camera_issued",4505,351126
+"WA","17-25","Mobile camera",4,"camera_issued",4984,351126
+"WA","17-25","Mobile camera",5,"camera_issued",4485,351126
+"WA","17-25","Mobile camera",6,"camera_issued",3888,351126
+"WA","17-25","Mobile camera",7,"camera_issued",5380,351126
+"WA","17-25","Mobile camera",8,"camera_issued",5751,351126
+"WA","17-25","Mobile camera",9,"camera_issued",6221,351126
+"WA","17-25","Mobile camera",10,"camera_issued",6665,351126
+"WA","17-25","Mobile camera",11,"camera_issued",4980,351126
+"WA","17-25","Mobile camera",12,"camera_issued",4822,351126
+"WA","17-25","Police issued",1,"police_issued",916,351126
+"WA","17-25","Police issued",2,"police_issued",839,351126
+"WA","17-25","Police issued",3,"police_issued",695,351126
+"WA","17-25","Police issued",4,"police_issued",713,351126
+"WA","17-25","Police issued",5,"police_issued",787,351126
+"WA","17-25","Police issued",6,"police_issued",787,351126
+"WA","17-25","Police issued",7,"police_issued",625,351126
+"WA","17-25","Police issued",8,"police_issued",848,351126
+"WA","17-25","Police issued",9,"police_issued",765,351126
+"WA","17-25","Police issued",10,"police_issued",799,351126
+"WA","17-25","Police issued",11,"police_issued",818,351126
+"WA","17-25","Police issued",12,"police_issued",562,351126
+"WA","17-25","Red light camera",1,"camera_issued",893,351126
+"WA","17-25","Red light camera",2,"camera_issued",801,351126
+"WA","17-25","Red light camera",3,"camera_issued",915,351126
+"WA","17-25","Red light camera",4,"camera_issued",853,351126
+"WA","17-25","Red light camera",5,"camera_issued",871,351126
+"WA","17-25","Red light camera",6,"camera_issued",678,351126
+"WA","17-25","Red light camera",7,"camera_issued",1069,351126
+"WA","17-25","Red light camera",8,"camera_issued",963,351126
+"WA","17-25","Red light camera",9,"camera_issued",1069,351126
+"WA","17-25","Red light camera",10,"camera_issued",1091,351126
+"WA","17-25","Red light camera",11,"camera_issued",1030,351126
+"WA","17-25","Red light camera",12,"camera_issued",1071,351126
+"WA","26-39","Average speed camera",1,"camera_issued",471,637489
+"WA","26-39","Average speed camera",2,"camera_issued",604,637489
+"WA","26-39","Average speed camera",3,"camera_issued",631,637489
+"WA","26-39","Average speed camera",4,"camera_issued",550,637489
+"WA","26-39","Average speed camera",5,"camera_issued",409,637489
+"WA","26-39","Average speed camera",6,"camera_issued",440,637489
+"WA","26-39","Average speed camera",7,"camera_issued",502,637489
+"WA","26-39","Average speed camera",8,"camera_issued",581,637489
+"WA","26-39","Average speed camera",9,"camera_issued",385,637489
+"WA","26-39","Average speed camera",10,"camera_issued",423,637489
+"WA","26-39","Average speed camera",11,"camera_issued",584,637489
+"WA","26-39","Average speed camera",12,"camera_issued",505,637489
+"WA","26-39","Fixed camera",1,"camera_issued",4272,637489
+"WA","26-39","Fixed camera",2,"camera_issued",3597,637489
+"WA","26-39","Fixed camera",3,"camera_issued",3463,637489
+"WA","26-39","Fixed camera",4,"camera_issued",3564,637489
+"WA","26-39","Fixed camera",5,"camera_issued",2950,637489
+"WA","26-39","Fixed camera",6,"camera_issued",2652,637489
+"WA","26-39","Fixed camera",7,"camera_issued",2879,637489
+"WA","26-39","Fixed camera",8,"camera_issued",2970,637489
+"WA","26-39","Fixed camera",9,"camera_issued",2514,637489
+"WA","26-39","Fixed camera",10,"camera_issued",2876,637489
+"WA","26-39","Fixed camera",11,"camera_issued",2682,637489
+"WA","26-39","Fixed camera",12,"camera_issued",3353,637489
+"WA","26-39","Mobile camera",1,"camera_issued",9352,637489
+"WA","26-39","Mobile camera",2,"camera_issued",13069,637489
+"WA","26-39","Mobile camera",3,"camera_issued",11506,637489
+"WA","26-39","Mobile camera",4,"camera_issued",12026,637489
+"WA","26-39","Mobile camera",5,"camera_issued",10393,637489
+"WA","26-39","Mobile camera",6,"camera_issued",9339,637489
+"WA","26-39","Mobile camera",7,"camera_issued",12534,637489
+"WA","26-39","Mobile camera",8,"camera_issued",13870,637489
+"WA","26-39","Mobile camera",9,"camera_issued",14314,637489
+"WA","26-39","Mobile camera",10,"camera_issued",15185,637489
+"WA","26-39","Mobile camera",11,"camera_issued",11613,637489
+"WA","26-39","Mobile camera",12,"camera_issued",12015,637489
+"WA","26-39","Police issued",1,"police_issued",1913,637489
+"WA","26-39","Police issued",2,"police_issued",1511,637489
+"WA","26-39","Police issued",3,"police_issued",1495,637489
+"WA","26-39","Police issued",4,"police_issued",1497,637489
+"WA","26-39","Police issued",5,"police_issued",1524,637489
+"WA","26-39","Police issued",6,"police_issued",1449,637489
+"WA","26-39","Police issued",7,"police_issued",1217,637489
+"WA","26-39","Police issued",8,"police_issued",1591,637489
+"WA","26-39","Police issued",9,"police_issued",1234,637489
+"WA","26-39","Police issued",10,"police_issued",1423,637489
+"WA","26-39","Police issued",11,"police_issued",1484,637489
+"WA","26-39","Police issued",12,"police_issued",1124,637489
+"WA","26-39","Red light camera",1,"camera_issued",3494,637489
+"WA","26-39","Red light camera",2,"camera_issued",2795,637489
+"WA","26-39","Red light camera",3,"camera_issued",3087,637489
+"WA","26-39","Red light camera",4,"camera_issued",3212,637489
+"WA","26-39","Red light camera",5,"camera_issued",3091,637489
+"WA","26-39","Red light camera",6,"camera_issued",2290,637489
+"WA","26-39","Red light camera",7,"camera_issued",3611,637489
+"WA","26-39","Red light camera",8,"camera_issued",3479,637489
+"WA","26-39","Red light camera",9,"camera_issued",3557,637489
+"WA","26-39","Red light camera",10,"camera_issued",3511,637489
+"WA","26-39","Red light camera",11,"camera_issued",3579,637489
+"WA","26-39","Red light camera",12,"camera_issued",3840,637489
+"WA","40-64","Average speed camera",1,"camera_issued",546,893966
+"WA","40-64","Average speed camera",2,"camera_issued",609,893966
+"WA","40-64","Average speed camera",3,"camera_issued",673,893966
+"WA","40-64","Average speed camera",4,"camera_issued",589,893966
+"WA","40-64","Average speed camera",5,"camera_issued",504,893966
+"WA","40-64","Average speed camera",6,"camera_issued",498,893966
+"WA","40-64","Average speed camera",7,"camera_issued",551,893966
+"WA","40-64","Average speed camera",8,"camera_issued",623,893966
+"WA","40-64","Average speed camera",9,"camera_issued",418,893966
+"WA","40-64","Average speed camera",10,"camera_issued",544,893966
+"WA","40-64","Average speed camera",11,"camera_issued",740,893966
+"WA","40-64","Average speed camera",12,"camera_issued",592,893966
+"WA","40-64","Fixed camera",1,"camera_issued",6412,893966
+"WA","40-64","Fixed camera",2,"camera_issued",5241,893966
+"WA","40-64","Fixed camera",3,"camera_issued",5077,893966
+"WA","40-64","Fixed camera",4,"camera_issued",5067,893966
+"WA","40-64","Fixed camera",5,"camera_issued",4226,893966
+"WA","40-64","Fixed camera",6,"camera_issued",4038,893966
+"WA","40-64","Fixed camera",7,"camera_issued",4582,893966
+"WA","40-64","Fixed camera",8,"camera_issued",4809,893966
+"WA","40-64","Fixed camera",9,"camera_issued",3824,893966
+"WA","40-64","Fixed camera",10,"camera_issued",4227,893966
+"WA","40-64","Fixed camera",11,"camera_issued",3846,893966
+"WA","40-64","Fixed camera",12,"camera_issued",5074,893966
+"WA","40-64","Mobile camera",1,"camera_issued",13530,893966
+"WA","40-64","Mobile camera",2,"camera_issued",19349,893966
+"WA","40-64","Mobile camera",3,"camera_issued",16622,893966
+"WA","40-64","Mobile camera",4,"camera_issued",17048,893966
+"WA","40-64","Mobile camera",5,"camera_issued",15404,893966
+"WA","40-64","Mobile camera",6,"camera_issued",13549,893966
+"WA","40-64","Mobile camera",7,"camera_issued",18163,893966
+"WA","40-64","Mobile camera",8,"camera_issued",19806,893966
+"WA","40-64","Mobile camera",9,"camera_issued",19385,893966
+"WA","40-64","Mobile camera",10,"camera_issued",20374,893966
+"WA","40-64","Mobile camera",11,"camera_issued",16146,893966
+"WA","40-64","Mobile camera",12,"camera_issued",16724,893966
+"WA","40-64","Police issued",1,"police_issued",2201,893966
+"WA","40-64","Police issued",2,"police_issued",1808,893966
+"WA","40-64","Police issued",3,"police_issued",1719,893966
+"WA","40-64","Police issued",4,"police_issued",1728,893966
+"WA","40-64","Police issued",5,"police_issued",1756,893966
+"WA","40-64","Police issued",6,"police_issued",1647,893966
+"WA","40-64","Police issued",7,"police_issued",1460,893966
+"WA","40-64","Police issued",8,"police_issued",1909,893966
+"WA","40-64","Police issued",9,"police_issued",1541,893966
+"WA","40-64","Police issued",10,"police_issued",1685,893966
+"WA","40-64","Police issued",11,"police_issued",1652,893966
+"WA","40-64","Police issued",12,"police_issued",1260,893966
+"WA","40-64","Red light camera",1,"camera_issued",7450,893966
+"WA","40-64","Red light camera",2,"camera_issued",5845,893966
+"WA","40-64","Red light camera",3,"camera_issued",6471,893966
+"WA","40-64","Red light camera",4,"camera_issued",6593,893966
+"WA","40-64","Red light camera",5,"camera_issued",6253,893966
+"WA","40-64","Red light camera",6,"camera_issued",4600,893966
+"WA","40-64","Red light camera",7,"camera_issued",7979,893966
+"WA","40-64","Red light camera",8,"camera_issued",7557,893966
+"WA","40-64","Red light camera",9,"camera_issued",7520,893966
+"WA","40-64","Red light camera",10,"camera_issued",7845,893966
+"WA","40-64","Red light camera",11,"camera_issued",7383,893966
+"WA","40-64","Red light camera",12,"camera_issued",8220,893966
+"WA","65 and over","Average speed camera",1,"camera_issued",85,463428
+"WA","65 and over","Average speed camera",2,"camera_issued",112,463428
+"WA","65 and over","Average speed camera",3,"camera_issued",123,463428
+"WA","65 and over","Average speed camera",4,"camera_issued",104,463428
+"WA","65 and over","Average speed camera",5,"camera_issued",95,463428
+"WA","65 and over","Average speed camera",6,"camera_issued",100,463428
+"WA","65 and over","Average speed camera",7,"camera_issued",118,463428
+"WA","65 and over","Average speed camera",8,"camera_issued",97,463428
+"WA","65 and over","Average speed camera",9,"camera_issued",90,463428
+"WA","65 and over","Average speed camera",10,"camera_issued",113,463428
+"WA","65 and over","Average speed camera",11,"camera_issued",97,463428
+"WA","65 and over","Average speed camera",12,"camera_issued",104,463428
+"WA","65 and over","Fixed camera",1,"camera_issued",1618,463428
+"WA","65 and over","Fixed camera",2,"camera_issued",1323,463428
+"WA","65 and over","Fixed camera",3,"camera_issued",1210,463428
+"WA","65 and over","Fixed camera",4,"camera_issued",1152,463428
+"WA","65 and over","Fixed camera",5,"camera_issued",1038,463428
+"WA","65 and over","Fixed camera",6,"camera_issued",916,463428
+"WA","65 and over","Fixed camera",7,"camera_issued",1072,463428
+"WA","65 and over","Fixed camera",8,"camera_issued",1191,463428
+"WA","65 and over","Fixed camera",9,"camera_issued",940,463428
+"WA","65 and over","Fixed camera",10,"camera_issued",1084,463428
+"WA","65 and over","Fixed camera",11,"camera_issued",942,463428
+"WA","65 and over","Fixed camera",12,"camera_issued",1347,463428
+"WA","65 and over","Mobile camera",1,"camera_issued",3317,463428
+"WA","65 and over","Mobile camera",2,"camera_issued",4878,463428
+"WA","65 and over","Mobile camera",3,"camera_issued",4273,463428
+"WA","65 and over","Mobile camera",4,"camera_issued",4021,463428
+"WA","65 and over","Mobile camera",5,"camera_issued",3762,463428
+"WA","65 and over","Mobile camera",6,"camera_issued",3301,463428
+"WA","65 and over","Mobile camera",7,"camera_issued",4116,463428
+"WA","65 and over","Mobile camera",8,"camera_issued",4523,463428
+"WA","65 and over","Mobile camera",9,"camera_issued",4267,463428
+"WA","65 and over","Mobile camera",10,"camera_issued",4457,463428
+"WA","65 and over","Mobile camera",11,"camera_issued",3567,463428
+"WA","65 and over","Mobile camera",12,"camera_issued",4121,463428
+"WA","65 and over","Police issued",1,"police_issued",401,463428
+"WA","65 and over","Police issued",2,"police_issued",348,463428
+"WA","65 and over","Police issued",3,"police_issued",333,463428
+"WA","65 and over","Police issued",4,"police_issued",329,463428
+"WA","65 and over","Police issued",5,"police_issued",351,463428
+"WA","65 and over","Police issued",6,"police_issued",322,463428
+"WA","65 and over","Police issued",7,"police_issued",284,463428
+"WA","65 and over","Police issued",8,"police_issued",360,463428
+"WA","65 and over","Police issued",9,"police_issued",295,463428
+"WA","65 and over","Police issued",10,"police_issued",340,463428
+"WA","65 and over","Police issued",11,"police_issued",343,463428
+"WA","65 and over","Police issued",12,"police_issued",235,463428
+"WA","65 and over","Red light camera",1,"camera_issued",2027,463428
+"WA","65 and over","Red light camera",2,"camera_issued",1464,463428
+"WA","65 and over","Red light camera",3,"camera_issued",1685,463428
+"WA","65 and over","Red light camera",4,"camera_issued",1745,463428
+"WA","65 and over","Red light camera",5,"camera_issued",1630,463428
+"WA","65 and over","Red light camera",6,"camera_issued",1176,463428
+"WA","65 and over","Red light camera",7,"camera_issued",2512,463428
+"WA","65 and over","Red light camera",8,"camera_issued",2251,463428
+"WA","65 and over","Red light camera",9,"camera_issued",2202,463428
+"WA","65 and over","Red light camera",10,"camera_issued",2378,463428
+"WA","65 and over","Red light camera",11,"camera_issued",2304,463428
+"WA","65 and over","Red light camera",12,"camera_issued",2610,463428

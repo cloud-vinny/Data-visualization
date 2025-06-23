@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>VIEW Data</title>
+  <link rel="stylesheet" href="css/style.css" />
+  <script src="js/script.js" defer></script>
+</head>
+<body class="view-data-page">
+  <header>
+    <h1>Speending fines 2025</h1>
+    <button id="darkToggle">🌙</button>
+  </header>
+
+  <nav class="navbar">
+    <ul>
+      <li><a href="view.html" class="active">View Data</a></li>
+      <li><a href="index.html">Chart</a></li>
+      <li><a href="story.html">Storytelling</a></li>
+    </ul>
+  </nav>
+
+  <main class="card-container">
+    <div class="card card--tall">
+      <h2>Welcome</h2>
+      <p>
+        Welcome to the Our Data Visualisation Assignment. This site provides interactive visualisations of speeding offence trends across Australia, supporting road safety research and policy.
+      </p>
+
+      <h2>About the Data</h2>
+      <h3>Data Sources</h3>
+      <ul>
+        <li><strong>BITRE Enforcement Dataset:</strong> The primary data comes from the Bureau of Infrastructure and Transport Research Economics (BITRE), which compiles speeding offence records from state and territory police and road safety agencies.</li>
+        <li><strong>Population Dataset:</strong> To calculate fines per 10,000 people, we used a second dataset containing population estimates by state and age group. This allows for fair comparisons across regions with different population sizes.</li>
+      </ul>
+
+      <h3>What Each Column Means</h3>
+      <ul>
+        <li><strong>Year:</strong> The year the offence was recorded.</li>
+        <li><strong>Jurisdiction:</strong> The state or territory where the offence occurred (e.g., VIC, NSW, QLD).</li>
+        <li><strong>Metric:</strong> The type of offence or enforcement action (e.g., speeding, camera-detected).</li>
+        <li><strong>Start Date:</strong> The month and year of the offence.</li>
+        <li><strong>Fines (Count):</strong> The number of fines issued.</li>
+        <li><strong>Detection Method:</strong> How the offence was detected (e.g., fixed camera, mobile camera, police issued, red light camera, average speed camera).</li>
+        <li><strong>Age Group:</strong> The age bracket of the driver fined (e.g., 0–16, 17–25, 26–39, 40–64, 65+).</li>
+        <li><strong>Population:</strong> The estimated number of people in the relevant group (from the second dataset).</li>
+        <li><strong>Fines per 10,000:</strong> The rate of fines per 10,000 people, calculated using both datasets.</li>
+      </ul>
+
+      <h2>Dashboard Purpose</h2>
+      <p>Our goal is to make complex enforcement data accessible and meaningful. By combining offence records with population data, we enable:</p>
+      <ul>
+        <li>Fair comparisons between states and age groups, regardless of size.</li>
+        <li>Insights into which groups or regions are most affected by speeding offences.</li>
+        <li>Evidence-based decisions for road safety policy and resource allocation.</li>
+      </ul>
+
+      <h2>How to Use the Dashboard</h2>
+      <ul>
+        <li><strong>View Data (this page):</strong> Learn about the dataset, its sources, and key attributes.</li>
+        <li><strong>Chart:</strong> Explore interactive visualisations showing fines by state, age group, detection method, and over time. Use the charts to compare both raw counts and population-adjusted rates.</li>
+        <li><strong>Storytelling:</strong> Read a narrative summary of the most important findings and their implications for road safety.</li>
+      </ul>
+    </div>
+  </main>
+
+  <footer class="footer">
+    <p>&copy; DV04-T02</p>
+  </footer>
+</body>
+</html>
